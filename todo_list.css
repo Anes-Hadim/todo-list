@@ -23,6 +23,9 @@ body {
   font-size: 15px;
   cursor: pointer;
 }
+.add{
+  margin-left: 10px;
+}
 .delete{
   background-color: darkred;
   padding: 10px 0;
