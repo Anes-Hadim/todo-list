@@ -16,9 +16,6 @@ body {
   font-size: 15px;
   padding: 6px;
 }
-.date_in{
-  margin-right: 5px;
-}
 .add,.delete{
   background-color: green;
   color: white;
